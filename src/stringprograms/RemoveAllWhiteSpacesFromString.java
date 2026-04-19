@@ -7,7 +7,7 @@ public class RemoveAllWhiteSpacesFromString {
     public static void main(String[] args) {
         String input = "  Nothing   will   work   unless    you do   ";
 
-        // Note:trim() method in Java removes any leading (at the start) and trailing (at the end) whitespace from a string.
+        // trim() method in Java removes any leading (at the start) and trailing (at the end) whitespace from a string.
         // It doesn’t touch any spaces between words.
 
         input = input.trim();
