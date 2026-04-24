@@ -1,3 +1,5 @@
+// Program to reverse an array
+
 package Arrays;
 
 //Two pointer Approach - Left (o Index) & Right ( last Index)
@@ -35,8 +37,8 @@ public class ReverseAnArray {
 //2. Swap the elements at left and right.
 //3. Move left forward and right backward.
 //4. Repeat until left >= right.
-//✅ 1st iteration (left = 0, right = 4):
-//✅ 2nd iteration (left = 1, right = 3):
-//🛑 Stop condition (left = 2, right = 2):
+// 1st iteration (left = 0, right = 4):
+// 2nd iteration (left = 1, right = 3):
+// Stop condition (left = 2, right = 2):
 //left >= right → middle of array reached
 //Loop exits.
