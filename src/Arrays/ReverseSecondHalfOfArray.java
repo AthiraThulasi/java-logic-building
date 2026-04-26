@@ -18,6 +18,8 @@ public class ReverseSecondHalfOfArray {
             arr[right] = temp;
             left++;
             right--;
+
+
         }
         System.out.print("Second Half reversal: ");
         for (int number : arr) { // display the final reversed array
@@ -26,4 +28,4 @@ public class ReverseSecondHalfOfArray {
     }
 }
 
-
+//int [] num = {12,45,0,12,11,55,33,11}

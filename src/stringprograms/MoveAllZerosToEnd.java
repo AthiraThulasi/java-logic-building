@@ -17,7 +17,7 @@ public class MoveAllZerosToEnd {
          for (current = 0; current <= a.length - 1; current++) { // current traverse through the array
              if (a[current] != 0) { // swap
                  temp = a[nonzerovalue];
-                 a[nonzerovalue] = a[current];
+            a[nonzerovalue] = a[current];
                  a[current] = temp;
                  nonzerovalue++;
              }
