@@ -2,7 +2,7 @@ package stringprograms;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class RemoveDuplicateString {
+public class RemoveDuplicateLettersFromString {
 
 
 
