@@ -1,4 +1,4 @@
-// Move zeros to the right, separate numbers with comma, and keep nums in order
+// Move zeros to the right, separate numbers with comma, and keep numbers in order
 
 
 package stringprograms;
