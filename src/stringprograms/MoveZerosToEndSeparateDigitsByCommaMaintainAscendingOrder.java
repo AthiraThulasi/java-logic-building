@@ -20,8 +20,9 @@ public class MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder {
                 index++;
             }
 // The above logic does NOT remove old values at the back, It moves non-zero elements to the front.
-// After placing all non-zero elements at the front,fill the remaining positions with zeros
-for(int i = index; i<=num.length-1;i++){
+// After placing all non-zero elements at the front, we know exactly where the index of non-zero element end,
+// fill the remaining positions with zeros
+for(int i = index; i<=num.length-1;i++){ // index start right after non-zero element
     num[i] = 0; //Used a pointer to track the end of valid non-zero elements.
                // Everything beyond that position is overwritten with zeros
 }

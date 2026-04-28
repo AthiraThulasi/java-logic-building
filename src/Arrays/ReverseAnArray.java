@@ -18,7 +18,8 @@ public class ReverseAnArray {
 
         System.out.println();//  First o/p(Original Array) to move to the next line
 
-        while (  left < right ) { // or (right > left)// checking index
+        // Continue swapping until the two pointers meet or cross
+        while (  left < right ) { // or (right > left)// checking index// Run the block as long as the condition is TRUE
             temp = input[left];
             input[left] = input[right];
             input[right] = temp;
