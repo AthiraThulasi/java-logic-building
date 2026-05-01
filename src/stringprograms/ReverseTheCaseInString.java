@@ -16,4 +16,12 @@ public class ReverseTheCaseInString {
             if (Character.isUpperCase(letter)) {
                 result.append(Character.toLowerCase(letter));//// convert to lowercase and append to result
 
-            }}}}
+            } else if (Character.isLowerCase(letter)) {
+                result.append(Character.toUpperCase(letter));//// convert to uppercase and append to result
+
+            } else result.append(letter);
+        }
+        System.out.println(result);
+    }
+
+}
