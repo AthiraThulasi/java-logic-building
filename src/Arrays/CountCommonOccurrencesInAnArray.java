@@ -1,3 +1,6 @@
+// Write a Java program to count the frequency of each element in an array.
+// Write a Java program to find the most frequent element in an array.
+
 package Arrays;
 
 import java.util.HashMap;
