@@ -23,8 +23,9 @@ public class ReverseAnArray {
             temp = input[left];
             input[left] = input[right];
             input[right] = temp;
-            right--;
             left++;
+            right--;
+
         }
 
         System.out.print("Reversed Array: ");
