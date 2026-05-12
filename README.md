@@ -1,4 +1,4 @@
-Java Logic Building 
+# Java Logic Building 
 
 Practicing DSA and problem-solving patterns in Java — organized by pattern, not by topic.
 
@@ -59,7 +59,7 @@ Pattern Trigger: Java 8+ functional style — groupingBy, partitioningBy, filter
 Coming soon...
 
 
-## 🧠 Pattern Cheat Sheet
+##  Pattern Cheat Sheet
 
 | Pattern | Trigger Question | Key Data Structure |
 |---|---|---|
