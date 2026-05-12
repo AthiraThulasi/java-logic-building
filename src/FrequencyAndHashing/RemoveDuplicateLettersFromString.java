@@ -1,4 +1,5 @@
 package FrequencyAndHashing;
+
 import java.util.LinkedHashSet;
 import java.util.Set;
 
@@ -6,25 +7,32 @@ public class RemoveDuplicateLettersFromString {
 
     public static void main(String[] args) {
 
-            String word = "Javaa";
-            char inputArray[] = word.toCharArray();
-            Set<Character> linkedHashset = new LinkedHashSet<>();
-            // It stores only the first occurrence of each character and ignores duplicates.
-            StringBuilder sb = new StringBuilder();
-            //✅ Using StringBuilder to build a new string from those unique characters.
-            //Used character not char as we use non -primitive data type inside collections
-            // childclass HashSet<Character> implements set interface
-            //noDuplicateString is the parent reference
+        String word = "Athiraa";
 
-            for (char input : inputArray) {
-                if (linkedHashset.add(input)) {
-                    sb.append(input);//We can’t directly print linkedHashset and expect it to look like "Jav".
-                    //StringBuilder take those characters and build the final result.
-                }
+        char inputArray[] = word.toCharArray();
+        // String is a sequence of characters internally, but Java's for-each loop doesn't work directly on a String
+        //for - each only works on arrays and collections.
+        // toCharArray() → breaks String INTO individual chars
+
+        Set<Character> linkedHashset = new LinkedHashSet<>();
+        // Set-stores unique values and ignores duplicates.
+        // Why LinkedHashSet and Not Hashset?  LinkedHashSet preserves insertion order
+        // Used character not char as we use non -primitive data type inside collections
+
+        StringBuilder sb = new StringBuilder();
+
+        // Using StringBuilder to build a new string from those unique characters.
+
+        for (char input : inputArray) {
+            if (linkedHashset.add(input)) {
+                sb.append(input);//We can’t directly print linkedHashset and expect it to look like "Athira".
+                //StringBuilder take those characters and build the final result.
             }
-            System.out.println(sb);
+        }
+        System.out.println(sb);
 
-        }}
+    }
+}
 
 
 
