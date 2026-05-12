@@ -1,78 +1,54 @@
 # Java Logic Building 
+> Practicing DSA and problem-solving patterns in Java — organized by pattern, not by topic.
 
-Practicing DSA and problem solving patterns in Java 
-Organized by pattern, not by topic.
+---
 
+##  Folder Structure
 
-## Why Pattern-Based?
-Instead of memorizing solutions, I focus on recognizing which pattern applies to a problem.
-This makes it easier to solve new unseen problems in interviews.
+### 1️⃣ FrequencyAndHashing
 
- # Folder Structure
-## 1️⃣ FrequencyAndHashing
+> **Trigger:** Have I seen this before? Count it? Remove duplicates?
 
-Pattern Trigger: Do I need to track what I've seen? Count occurrences? Remove duplicates?
-Data Structures Used: HashMap, HashSet, LinkedHashSet
+| Program | Description |
+|---|---|
+| [CountTheFrequencyOfCharactersInString](src/FrequencyAndHashing/CountTheFrequencyOfCharactersInString.java) | Count how many times each character appears |
+| [RemoveDuplicateLettersFromString](src/FrequencyAndHashing/RemoveDuplicateLettersFromString.java) | Remove duplicate characters, preserve order |
+| [RemoveDuplicatesFromArray1](src/FrequencyAndHashing/RemoveDuplicatesFromArray1.java) | Remove duplicates from array using HashSet |
+| [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArray2.java) | Remove duplicates — alternate approach |
 
-ProgramDescriptionCountTheFrequencyOfCharactersInStringCount how many times each character appears in a stringRemoveDuplicateLettersFromStringRemove duplicate characters while preserving orderRemoveDuplicatesFromArray1Remove duplicates from array using HashSetRemoveDuplicatesFromArray2Remove duplicates from array - alternate approach
+---
 
-2️⃣ TwoPointers
+### 2️⃣ TwoPointers
 
-Pattern Trigger: Can I use two variables scanning from different positions?
-Used for: Reversing, palindrome check, pair sum problems
+> **Trigger:** Can I scan from both ends? Reverse? Compare pairs?
 
-ProgramDescriptionReverseAnArrayReverse entire array using two pointersReverseAStringReverse a string using two pointersReverseFirstHalfOfArrayReverse only the first half of an arrayReverseSecondHalfOfArrayReverse only the second half of an array
+| Program | Description |
+|---|---|
+| [ReverseAnArray](src/TwoPointers/ReverseAnArray.java) | Reverse entire array using two pointers |
+| [ReverseAString](src/TwoPointers/ReverseAString.java) | Reverse a string using two pointers |
+| [ReverseFirstHalfOfArray](src/TwoPointers/ReverseFirstHalfOfArray.java) | Reverse only the first half of an array |
+| [ReverseSecondHalfOfArray](src/TwoPointers/ReverseSecondHalfOfArray.java) | Reverse only the second half of an array |
 
-3️⃣ SortingAndGrouping
+---
 
-Pattern Trigger: Do I need to group by a property? Maintain order? Separate elements?
-Data Structures Used: TreeMap, LinkedHashMap, Streams
+### 3️⃣ SortingAndGrouping
 
-ProgramDescriptionMoveAllZerosToEndMove all zero elements to the end of arrayMoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrderSeparate digits, move zeros, maintain ascending order
+> **Trigger:** Group by property? Maintain order? Separate elements?
 
-4️⃣ StringManipulation
+| Program | Description |
+|---|---|
+| [MoveAllZerosToEnd](src/SortingAndGrouping/MoveAllZerosToEnd.java) | Move all zeros to end of array |
+| [MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder](src/SortingAndGrouping/MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder.java) | Separate digits, move zeros, maintain order |
 
-Pattern Trigger: Character-level operations, case changes, whitespace, rotation
+---
 
-ProgramDescriptionRemoveAllWhiteSpacesFromStringRemove all spaces from a stringReverseTheCaseInStringConvert uppercase to lowercase and vice versaStringManipulationSumExtract and sum numbers from a stringStringRotationCheck if one string is a rotation of another
+### 4️⃣ StringManipulation
 
-5️⃣ MathAndNumbers
+> **Trigger:** Character-level operations, case changes, whitespace, rotation
 
-Pattern Trigger: Number properties, sequences, mathematical operations
-
-ProgramDescriptionFactorialOfANumberCalculate factorial using iteration and recursionFibinocciSeriesGenerate Fibonacci series
-
-6️⃣ SlidingWindow
-
-Pattern Trigger: Longest/shortest subarray or substring with a constraint?
-Coming soon...
-
-
-7️⃣ Recursion
-
-Pattern Trigger: Can I break this into a smaller version of the same problem?
-Coming soon...
-
-
-8️⃣ StreamsAndFunctional
-
-Pattern Trigger: Java 8+ functional style — groupingBy, partitioningBy, filter, map
-Coming soon...
-
-
-##  Pattern Cheat Sheet
-
-| Pattern | Trigger Question | Key Data Structure |
-|---|---|---|
-| Frequency & Hashing | Have I seen this before? Count it? | HashMap, HashSet |
-| Two Pointers | Compare/scan from both ends? | int left, right |
-| Sliding Window | Longest/shortest window with constraint? | start, end pointers |
-| Sorting & Grouping | Group by property? Order matters? | TreeMap, Streams |
-| Recursion | Smaller version of same problem? | Call stack |
-| Math & Numbers | Number properties or sequences? | loops, modulo |
-
-🛠️ Tech Stack
-
-Language: Java
-IDE: IntelliJ IDEA
-Version Control: Git & GitHub
+| Program | Description |
+|---|---|
+| [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
+| [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
+| [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
+| [StringRotation](src/StringManipulation/StringRotation.java) |
