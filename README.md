@@ -1,14 +1,15 @@
 # Java Logic Building 
 
-Practicing DSA and problem-solving patterns in Java — organized by pattern, not by topic.
+Practicing DSA and problem solving patterns in Java 
+Organized by pattern, not by topic.
 
 
- Why Pattern-Based?
+## Why Pattern-Based?
 Instead of memorizing solutions, I focus on recognizing which pattern applies to a problem.
 This makes it easier to solve new unseen problems in interviews.
 
- Folder Structure
-1️⃣ FrequencyAndHashing
+ # Folder Structure
+## 1️⃣ FrequencyAndHashing
 
 Pattern Trigger: Do I need to track what I've seen? Count occurrences? Remove duplicates?
 Data Structures Used: HashMap, HashSet, LinkedHashSet
