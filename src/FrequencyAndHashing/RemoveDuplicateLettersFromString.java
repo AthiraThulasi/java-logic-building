@@ -25,7 +25,11 @@ public class RemoveDuplicateLettersFromString {
 
         for (char input : inputArray) {
             if (linkedHashset.add(input)) {
-                sb.append(input);//We can’t directly print linkedHashset and expect it to look like "Athira".
+                // if is the gatekeeper — only unique characters get through to StringBuilder
+                //add() in a Set returns a boolean:
+                // add(a) returns true  → character is NEW  → if(true) → append to sb
+                // add(a) returns FALSE → character EXISTED → if(false)  → Not append to sb
+                sb.append(input);
                 //StringBuilder take those characters and build the final result.
             }
         }
