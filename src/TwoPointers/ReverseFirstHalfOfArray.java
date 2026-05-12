@@ -1,6 +1,6 @@
 // Reverse First half of array
 
-package Arrays;
+package TwoPointers;
 import java.util.Arrays;
 
     public class ReverseFirstHalfOfArray {

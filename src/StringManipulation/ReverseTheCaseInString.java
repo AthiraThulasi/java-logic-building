@@ -1,6 +1,6 @@
 //Reverse the case in String
 // Logic - Given is a String > Convert it to a character array and do array traversing of each character
-package stringprograms;
+package StringManipulation;
 
 import java.util.Arrays;
 

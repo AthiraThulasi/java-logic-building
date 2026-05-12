@@ -1,4 +1,4 @@
-package NumberPrograms;
+package MathAndNumbers;
 
 public class FactorialOfANumber {
 

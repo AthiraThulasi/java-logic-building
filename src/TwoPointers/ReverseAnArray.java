@@ -1,6 +1,6 @@
 // Program to reverse an array
 
-package Arrays;
+package TwoPointers;
 
 //Two pointer Approach - Left (o Index) & Right ( last Index)
 

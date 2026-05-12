@@ -1,6 +1,6 @@
 // Count frequency of characters in a string
 
-package stringprograms;
+package FrequencyAndHashing;
 import java.util.*;
 public class CountTheFrequencyOfCharactersInString {
 

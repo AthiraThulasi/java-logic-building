@@ -1,7 +1,7 @@
 
 // Remove all white spaces from the string - "  Nothing   will   work   unless    you do   ";
 
-package stringprograms;
+package StringManipulation;
 
 public class RemoveAllWhiteSpacesFromString {
     public static void main(String[] args) {

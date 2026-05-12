@@ -1,4 +1,4 @@
-package stringprograms;
+package TwoPointers;
 
 public class ReverseAString {
     public static void main(String[] args) {

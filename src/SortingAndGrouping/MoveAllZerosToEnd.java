@@ -1,7 +1,7 @@
 
 // Move all zeros to the end
 
-package stringprograms;
+package SortingAndGrouping;
 
 public class MoveAllZerosToEnd {
      public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package stringprograms;
+package StringManipulation;
 
 
 // Check whether s2 is rotation of s1; Are they rotation of each other?

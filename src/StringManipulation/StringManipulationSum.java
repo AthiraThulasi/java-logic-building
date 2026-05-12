@@ -1,4 +1,4 @@
-package stringprograms;
+package StringManipulation;
 
 
 //To find the sum of numbers placed in between string!

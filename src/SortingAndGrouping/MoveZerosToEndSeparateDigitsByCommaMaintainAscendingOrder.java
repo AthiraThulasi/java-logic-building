@@ -1,7 +1,7 @@
 // Move zeros to the right, separate numbers with comma, and keep numbers in order
 
 
-package stringprograms;
+package SortingAndGrouping;
 
 import java.sql.SQLOutput;
 import java.util.Arrays;
