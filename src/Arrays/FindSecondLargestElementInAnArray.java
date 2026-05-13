@@ -1,6 +1,6 @@
 package Arrays;
 
-public class FindSecondLargestNumInAnArray {
+public class FindSecondLargestElementInAnArray {
     public static void main(String[] args) {
         int a[] = { 1, 2, 4, 5, 6, 7 };
         int largestNumber = Integer.MIN_VALUE;
