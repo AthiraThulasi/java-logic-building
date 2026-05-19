@@ -13,21 +13,21 @@
 | Program | Description |
 |---|---|
 | 1. [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
-| [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
-| [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
-| [StringRotation](src/StringManipulation/StringRotation.java) | Check whether one string is rotation of another|
-| [CountOccurrenceOfEachCharacter](src/StringManipulation/CountOccurrenceOfEachCharacter.java) |Count frequency of each character in a string|
-| [FindFirstNonRepeatedCharacterInString](src/StringManipulation/FindFirstNonRepeatedCharacterInString.java)|Find the first unique character in a string|
-| [GetOnlyAlphabetsFromAString](src/StringManipulation/GetOnlyAlphabetsFromAString.java)| Print only albhabets from a string|
-| [GetOnlyVowelsFromString](src/StringManipulation/GetOnlyVowelsFromString.java)| Print only vowels from a string|
-| [PrintTheLengthOfLastWordInString](src/StringManipulation/PrintTheLengthOfLastWordInString.java)| Print only the last word from a string|
-| [RemoveDuplicatesFromString](src/StringManipulation/RemoveDuplicatesFromString.java)| Remove duplicate characters from a string|
-| [RemoveFirstWordFromString](src/StringManipulation/RemoveFirstWordFromString.java)| Remove the first word from a sentence|
-| [RemoveLastWordFromString](src/StringManipulation/RemoveLastWordFromString.java)| Remove the last word from a sentence |
-| [ReverseAString](src/StringManipulation/ReverseAString.java)| Reverse a complete string|
-| [ReverseStringWithoutReversingWords](src/StringManipulation/ReverseStringWithoutReversingWords.java)|Reverse sentence without reversing each word|
-| [ReverseTheFirstWordInString](src/StringManipulation/ReverseTheFirstWordInString.java)| Reverse only the first word |
-| [ReverseTheLastWordInString](src/ReverseTheLastWordInString.java)| Reverse only the last word |
+| 2. [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
+| 3. [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
+| 4. [StringRotation](src/StringManipulation/StringRotation.java) | Check whether one string is rotation of another|
+| 5. [CountOccurrenceOfEachCharacter](src/StringManipulation/CountOccurrenceOfEachCharacter.java) |Count frequency of each character in a string|
+| 6. [FindFirstNonRepeatedCharacterInString](src/StringManipulation/FindFirstNonRepeatedCharacterInString.java)|Find the first unique character in a string|
+| 7. [GetOnlyAlphabetsFromAString](src/StringManipulation/GetOnlyAlphabetsFromAString.java)| Print only albhabets from a string|
+| 8. [GetOnlyVowelsFromString](src/StringManipulation/GetOnlyVowelsFromString.java)| Print only vowels from a string|
+| 9. [PrintTheLengthOfLastWordInString](src/StringManipulation/PrintTheLengthOfLastWordInString.java)| Print only the last word from a string|
+| 10. [RemoveDuplicatesFromString](src/StringManipulation/RemoveDuplicatesFromString.java)| Remove duplicate characters from a string|
+| 11. [RemoveFirstWordFromString](src/StringManipulation/RemoveFirstWordFromString.java)| Remove the first word from a sentence|
+| 12. [RemoveLastWordFromString](src/StringManipulation/RemoveLastWordFromString.java)| Remove the last word from a sentence |
+| 13. [ReverseAString](src/StringManipulation/ReverseAString.java)| Reverse a complete string|
+| 14. [ReverseStringWithoutReversingWords](src/StringManipulation/ReverseStringWithoutReversingWords.java)|Reverse sentence without reversing each word|
+| 15. [ReverseTheFirstWordInString](src/StringManipulation/ReverseTheFirstWordInString.java)| Reverse only the first word |
+| 16. [ReverseTheLastWordInString](src/ReverseTheLastWordInString.java)| Reverse only the last word |
 
 
 ### 2. FrequencyAndHashing
