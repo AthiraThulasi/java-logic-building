@@ -12,7 +12,7 @@
 
 | Program | Description |
 |---|---|
-| [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
+| 1. [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
 | [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
 | [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
 | [StringRotation](src/StringManipulation/StringRotation.java) | Check whether one string is rotation of another|
