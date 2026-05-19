@@ -30,7 +30,21 @@
 | 16. [ReverseTheLastWordInString](src/ReverseTheLastWordInString.java)| Reverse only the last word |
 
 
-### 2. FrequencyAndHashing
+### 2.  Arrays
+
+| Program | Description |
+|---|---|
+| 1. [FindLargestElementInAnArray](src/Arrays/FindLargestElementInAnArray.java) | Find largest element in array |
+| 2. [FindSecondLargestElementInAnArray](src/Arrays/FindSecondLargestElementInAnArray.java) | Find second largest element |
+| 3. [FindSmallestElementInAnArray](src/Arrays/FindSmallestElementInAnArray.java) | Find smallest element in array |
+| 4. [ReverseAnArray](src/Arrays/ReverseAnArray.java) | Reverse elements in array |
+| 5. [SortArrayInAscendingOrder](src/Arrays/SortArrayInAscendingOrder.java) | Sort array in ascending order |
+| 6. [SortArrayInDescendingOrder](src/Arrays/SortArrayInDescendingOrder.java) | Sort array in descending order |
+| 7. [SumOfArrayElements](src/Arrays/SumOfArrayElements.java) | Find sum of array elements |
+
+
+
+### 3.FrequencyAndHashing
 
 > **Trigger:** Have I seen this before? Count it? Remove duplicates?
 
