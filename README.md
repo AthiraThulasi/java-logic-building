@@ -51,4 +51,18 @@
 | [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
 | [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
 | [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
-| [StringRotation](src/StringManipulation/StringRotation.java) |
+| [StringRotation](src/StringManipulation/StringRotation.java) | Check whether one string is rotation of another|
+| [CountOccurrenceOfEachCharacter](src/StringManipulation/CountOccurrenceOfEachCharacter.java) |Count frequency of each character in a string|
+| [FindFirstNonRepeatedCharacterInString](src/StringManipulation/FindFirstNonRepeatedCharacterInString)|Find the first unique character in a string|
+| [GetOnlyAlphabetsFromAString](src/StringManipulation/GetOnlyAlphabetsFromAString)| Print only albhabets from a string|
+| [GetOnlyVowelsFromString](src/StringManipulation/GetOnlyVowelsFromString)| Print only vowels from a string|
+| [PrintTheLengthOfLastWordInString](src/StringManipulation/PrintTheLengthOfLastWordInString)| Print only the last word from a string|
+| [RemoveDuplicatesFromString](src/StringManipulation/RemoveDuplicatesFromString)| Remove duplicate characters from a string|
+| [RemoveFirstWordFromString](src/StringManipulation/RemoveFirstWordFromString)| Remove the first word from a sentence|
+| [RemoveLastWordFromString](src/StringManipulation/RemoveLastWordFromString)| Remove the last word from a sentence |
+| [ReverseAString](src/StringManipulation/ReverseAString)| Reverse a complete string|
+| [ReverseStringWithoutReversingWords](src/StringManipulation/ReverseStringWithoutReversingWords)|Reverse sentence without reversing each word|
+| [ReverseTheFirstWordInString](src/StringManipulation/ReverseTheFirstWordInString)| Reverse only the first word |
+| [ReverseTheLastWordInString](src/ReverseTheLastWordInString)| Reverse only the last word |
+
+
