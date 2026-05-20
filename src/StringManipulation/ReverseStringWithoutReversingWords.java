@@ -3,7 +3,7 @@ package StringManipulation;
 public class ReverseStringWithoutReversingWords {
 
     public static void main(String[] args) {
-        String s = "I work in Infosys";
+        String s = "I work at Infosys";
 
         String[] words = s.split(" "); // Split the string wherever there is a space.
         // split() converts a single String into a String[] based on delimiter (" ")
@@ -14,4 +14,4 @@ public class ReverseStringWithoutReversingWords {
     }
 }
 
-//Output - Infosys in work I
+//### Output - Infosys at work I
