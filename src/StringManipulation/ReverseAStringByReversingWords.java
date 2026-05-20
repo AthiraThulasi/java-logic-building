@@ -12,7 +12,5 @@ public class ReverseAStringByReversingWords {
                reversedWord = reversedWord + words[i].charAt(j);
            } System.out.print(reversedWord + " "); }
         }
-
-
-
     }
+// OUTPUT - sysofnI ta skrow arihtA
