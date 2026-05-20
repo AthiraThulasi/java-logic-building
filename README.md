@@ -3,9 +3,6 @@
 
 ---
 
-##  Folder Structure
-
-
 ### 1. StringManipulation
 
 > **Trigger:** Character-level operations, case changes, whitespace, rotation
