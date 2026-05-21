@@ -14,6 +14,27 @@ public class ReverseTheLastWordInString {
             else {
                 break;
             }
+            
+
+                    String s = "I work at Infosys";
+
+                    String[] words = s.split(" ");
+
+                    String lastWord = words[words.length - 1];
+
+                    for (int i = lastWord.length() - 1; i >= 0; i--) {
+
+                        System.out.print(lastWord.charAt(i));
+                    }
+                }
+            }
+```
+
+
+
+
+
+
 
 
 

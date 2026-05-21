@@ -13,7 +13,7 @@ public class ReverseAStringByReversingWords {
             String reversedWord = "";//Need a blank variable to start building the reversed word character by character.
 
             // Inner loop → reverses the characters inside each word
-            for (int j = words[i].length() - 1; j >= 0; j--) {
+            for (int j = words[i].length() - 1; j >= 0; j--) { // words[i] is a one single element from array ie String, so use length()
                 reversedWord = reversedWord + words[i].charAt(j);
             }
             System.out.print(reversedWord + " ");
