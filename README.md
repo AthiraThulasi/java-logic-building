@@ -3,7 +3,7 @@
 
 ---
 
-### 1. StringManipulation
+## 1. StringManipulation
 
 > **Trigger:** Character-level operations, case changes, whitespace, rotation
 
@@ -28,9 +28,11 @@
 | 17. [ReverseAStringByReversingWords](src/StringManipulation/ReverseAStringByReversingWords.java)|Reverse all words and the characters in a String|
 
 
-### 2.  Arrays
+## 2.  Arrays
 
-| BasicPrograms | Description |
+### Basic Array Programs
+
+| Programs | Description |
 |---|---|
 | 1. [FindLargestElementInAnArray](src/Arrays/FindLargestElementInAnArray.java) | Find largest element in array |
 | 2. [FindSecondLargestElementInAnArray](src/Arrays/FindSecondLargestElementInAnArray.java) | Find second largest element |
@@ -54,7 +56,7 @@
 
 ---
 
-### 4.FrequencyAndHashing
+## 4.FrequencyAndHashing
 
 > **Trigger:** Have I seen this before? Count frequency? Remove duplicates?
 
