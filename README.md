@@ -30,30 +30,14 @@
 
 ### 2.  Arrays
 
-| Program | Description |
+| BasicPrograms | Description |
 |---|---|
 | 1. [FindLargestElementInAnArray](src/Arrays/FindLargestElementInAnArray.java) | Find largest element in array |
 | 2. [FindSecondLargestElementInAnArray](src/Arrays/FindSecondLargestElementInAnArray.java) | Find second largest element |
 | 3. [FindSmallestElementInAnArray](src/Arrays/FindSmallestElementInAnArray.java) | Find smallest element in array |
-| 4. [ReverseAnArray](src/Arrays/ReverseAnArray.java) | Reverse elements in array |
-| 5. [SortArrayInAscendingOrder](src/Arrays/SortArrayInAscendingOrder.java) | Sort array in ascending order |
-| 6. [SortArrayInDescendingOrder](src/Arrays/SortArrayInDescendingOrder.java) | Sort array in descending order |
-| 7. [SumOfArrayElements](src/Arrays/SumOfArrayElements.java) | Find sum of array elements |
-
-
-
-### 3.FrequencyAndHashing
-
-> **Trigger:** Have I seen this before? Count it? Remove duplicates?
-
-| Program | Description |
-|---|---|
-| [CountTheFrequencyOfCharactersInString](src/FrequencyAndHashing/CountTheFrequencyOfCharactersInString.java) | Count how many times each character appears |
-| [RemoveDuplicateLettersFromString](src/FrequencyAndHashing/RemoveDuplicateLettersFromString.java) | Remove duplicate characters, preserve order |
-| [RemoveDuplicatesFromArray1](src/FrequencyAndHashing/RemoveDuplicatesFromArray1.java) | Remove duplicates from array using HashSet |
-| [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArray2.java) | Remove duplicates — alternate approach |
-
----
+| 4. [SortArrayInAscendingOrder](src/Arrays/SortArrayInAscendingOrder.java) | Sort array in ascending order |
+| 5. [SortArrayInDescendingOrder](src/Arrays/SortArrayInDescendingOrder.java) | Sort array in descending order |
+| 6. [SumOfArrayElements](src/Arrays/SumOfArrayElements.java) | Find sum of array elements |
 
 ### 3. TwoPointers
 
@@ -61,23 +45,28 @@
 
 | Program | Description |
 |---|---|
-| [ReverseAnArray](src/TwoPointers/ReverseAnArray.java) | Reverse entire array using two pointers |
-| [ReverseAString](src/TwoPointers/ReverseAString.java) | Reverse a string using two pointers |
-| [ReverseFirstHalfOfArray](src/TwoPointers/ReverseFirstHalfOfArray.java) | Reverse only the first half of an array |
-| [ReverseSecondHalfOfArray](src/TwoPointers/ReverseSecondHalfOfArray.java) | Reverse only the second half of an array |
+| 1. [ReverseAnArray](src/Arrays/TwoPointers/ReverseAnArray.java) | Reverse elements in array |
+| 2. [ReverseFirstHalfOfArray](src/Arrays/TwoPointers/ReverseFirstHalfOfArray.java) | Reverse only the first half of an array |
+| 3. [ReverseSecondHalfOfArray](src/Arrays/TwoPointers/ReverseSecondHalfOfArray.java) | Reverse only the second half of an array |
+| 4. [MoveAllZerosToEnd](src/Arrays/TwoPointers/MoveAllZerosToEnd.java) | Move all zeros to end of array |
+| 5. [MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder](src/Arrays/TwoPointers/MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder.java) | Separate digits, move zeros, maintain order |
+| 6. [RotateArrayByKPositions](src/Arrays/TwoPointers/RotateArrayByKPositions.java)|Rotare array by given position
 
 ---
 
-### 4. SortingAndGrouping
+### 4.FrequencyAndHashing
 
-> **Trigger:** Group by property? Maintain order? Separate elements?
+> **Trigger:** Have I seen this before? Count frequency? Remove duplicates?
 
 | Program | Description |
 |---|---|
-| [MoveAllZerosToEnd](src/SortingAndGrouping/MoveAllZerosToEnd.java) | Move all zeros to end of array |
-| [MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder](src/SortingAndGrouping/MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder.java) | Separate digits, move zeros, maintain order |
+| 1. [CountTheFrequencyOfCharactersInString](src/FrequencyAndHashing/CountTheFrequencyOfCharactersInString.java) | Count how many times each character appears |
+| 2. [RemoveDuplicateLettersFromString](src/FrequencyAndHashing/RemoveDuplicateLettersFromString.java) | Remove duplicate characters, preserve order |
+| 3. [RemoveDuplicatesFromArrayUsingLinkedHashSet](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingLinkedHashSet.java) | Remove duplicates from array using HashSet |
+| 4. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — using streams|
 
----
+
+
 
 
 

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class RemoveDuplicatesFromArray2 {
+public class RemoveDuplicatesFromArrayUsingLinkedHashSet {
 
     public static void main(String[] args) {
 

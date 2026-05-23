@@ -3,7 +3,7 @@ package FrequencyAndHashing;
 
 import java.util.Arrays;
 
-public class RemoveDuplicatesFromArray1 {
+public class RemoveDuplicatesFromArrayUsingStreams {
 
 
     public static void main(String[] args) {
