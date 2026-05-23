@@ -51,7 +51,7 @@
 | 2. [ReverseFirstHalfOfArray](src/Arrays/TwoPointers/ReverseFirstHalfOfArray.java) | Reverse only the first half of an array |
 | 3. [ReverseSecondHalfOfArray](src/Arrays/TwoPointers/ReverseSecondHalfOfArray.java) | Reverse only the second half of an array |
 | 4. [MoveAllZerosToEnd](src/Arrays/TwoPointers/MoveAllZerosToEnd.java) | Move all zeros to end of array |
-| 5. [MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder] (src/Arrays/TwoPointers/MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder.java)| Separate digits, move zeros, maintain order |
+| 5. [MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder](src/Arrays/TwoPointers/MoveZerosToEndSeparateDigitsByCommaMaintainAscendingOrder.java)| Separate digits, move zeros, maintain order |
 | 6. [RotateArrayByKPositions](src/Arrays/TwoPointers/RotateArrayByKPositions.java)|Rotare array by given position
 
 ---
