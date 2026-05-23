@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.TwoPointers;
 
 public class RotateArrayByKPositions {
 }
