@@ -1,8 +1,6 @@
 //  Reverse Second Half Of An Array
 
-package TwoPointers;
-
-import java.util.Arrays;
+package Arrays.TwoPointers;
 
 public class ReverseSecondHalfOfArray {
     public static void main(String[] args) {

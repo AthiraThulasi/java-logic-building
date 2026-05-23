@@ -1,4 +1,4 @@
-package TwoPointers;
+package Arrays.TwoPointers;
 
 public class MoveAllZerosToEnd {
 

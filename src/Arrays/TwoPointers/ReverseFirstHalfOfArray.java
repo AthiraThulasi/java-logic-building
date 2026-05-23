@@ -1,9 +1,8 @@
 // Reverse First half of array
 
-package TwoPointers;
-import java.util.Arrays;
+package Arrays.TwoPointers;
 
-    public class ReverseFirstHalfOfArray {
+public class ReverseFirstHalfOfArray {
         public static void main( String [] args) {
             int[] arr = {10, 20, 30, 40, 50};
             int left = 0;

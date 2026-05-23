@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.BasicPrograms;
 
 public class FindSmallestElementInAnArray {
     public static void main(String[] args) {
