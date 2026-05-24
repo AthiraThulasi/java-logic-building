@@ -34,12 +34,12 @@
 
 | Programs | Description |
 |---|---|
-| 1. [FindLargestElementInAnArray](src/Arrays/FindLargestElementInAnArray.java) | Find largest element in array |
-| 2. [FindSecondLargestElementInAnArray](src/Arrays/FindSecondLargestElementInAnArray.java) | Find second largest element |
-| 3. [FindSmallestElementInAnArray](src/Arrays/FindSmallestElementInAnArray.java) | Find smallest element in array |
-| 4. [SortArrayInAscendingOrder](src/Arrays/SortArrayInAscendingOrder.java) | Sort array in ascending order |
-| 5. [SortArrayInDescendingOrder](src/Arrays/SortArrayInDescendingOrder.java) | Sort array in descending order |
-| 6. [SumOfArrayElements](src/Arrays/SumOfArrayElements.java) | Find sum of array elements |
+| 1. [FindLargestElementInAnArray](src/Arrays//BasicPrograms/FindLargestElementInAnArray.java) | Find largest element in array |
+| 2. [FindSecondLargestElementInAnArray](src/Arrays//BasicPrograms/FindSecondLargestElementInAnArray.java) | Find second largest element |
+| 3. [FindSmallestElementInAnArray](src/Arrays/BasicPrograms/FindSmallestElementInAnArray.java) | Find smallest element in array |
+| 4. [SortArrayInAscendingOrder](src/Arrays//BasicPrograms/SortArrayInAscendingOrder.java) | Sort array in ascending order |
+| 5. [SortArrayInDescendingOrder](src/Arrays//BasicPrograms/SortArrayInDescendingOrder.java) | Sort array in descending order |
+| 6. [SumOfArrayElements](src/Arrays//BasicPrograms/SumOfArrayElements.java) | Find sum of array elements |
 
 ### 3. TwoPointers
 
