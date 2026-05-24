@@ -18,7 +18,7 @@ public class FindMultipleMissingNumbers {
             // Step 3: Add all numbers to a Set
             Set<Integer> numbers = new HashSet<>();
             for (int num : arr) {
-                numbers.add(num); // Set has only the numbers that exist-the ones from the array
+                numbers.add(num); // Set has only the numbers that exists in the array
             }
 
             // Step 4: Find missing numbers

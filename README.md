@@ -40,8 +40,8 @@
 | 4. [SortArrayInAscendingOrder](src/Arrays//BasicPrograms/SortArrayInAscendingOrder.java) | Sort array in ascending order |
 | 5. [SortArrayInDescendingOrder](src/Arrays//BasicPrograms/SortArrayInDescendingOrder.java) | Sort array in descending order |
 | 6. [SumOfArrayElements](src/Arrays//BasicPrograms/SumOfArrayElements.java) | Find sum of array elements |
-| 7. [FindOneMissingNumInArray](src/Arrays//BasicPrograms/FindOneMissingNumInArray)| FindOneMissingNumInArray|
-| 8. [FindMultipleMissingNumbers] (src/Arrays//BasicPrograms/FindMultipleMissingNumbers)| FindMultipleMissingNumbers|
+| 7. [FindOneMissingNumInArray](src/Arrays//BasicPrograms/FindOneMissingNumInArray.java)| FindOneMissingNumInArray|
+| 8. [FindMultipleMissingNumbers](src/Arrays//BasicPrograms/FindMultipleMissingNumbers.java)| FindMultipleMissingNumbers|
 
 ### 3. TwoPointers
 
