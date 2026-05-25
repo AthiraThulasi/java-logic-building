@@ -9,6 +9,8 @@ public class ReverseAString {
 for(int i = name.length()-1;i >= 0; i--){ // Reverse loop -	length - 1
     // length() is a method in String used to get the number of characters.
     System.out.print(name.charAt(i));
+    // charAt() is memory efficient because it accesses characters directly from the String without creating a new array.
+    // toCharArray() creates an extra character array in memory.
 }
     }
 }
