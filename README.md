@@ -11,7 +11,7 @@
 |---|---|
 | 1. [RemoveAllWhiteSpacesFromString](src/StringManipulation/RemoveAllWhiteSpacesFromString.java) | Remove all spaces from a string |
 | 2. [ReverseTheCaseInString](src/StringManipulation/ReverseTheCaseInString.java) | Swap uppercase and lowercase letters |
-| 3. [StringManipulationSum](src/StringManipulation/StringManipulationSum.java) | Extract and sum numbers from a string |
+| 3. [StringManipulationSum](src/StringManipulation/FindSumOfNumbersInString.java) | Extract and sum numbers from a string |
 | 4. [StringRotation](src/StringManipulation/StringRotation.java) | Check whether one string is rotation of another|
 | 5. [CountOccurrenceOfEachCharacter](src/StringManipulation/CountOccurrenceOfEachCharacter.java) |Count frequency of each character in a string|
 | 6. [FindFirstNonRepeatedCharacterInString](src/StringManipulation/FindFirstNonRepeatedCharacterInString.java)|Find the first unique character in a string|
@@ -26,6 +26,7 @@
 | 15. [ReverseTheFirstWordInString](src/StringManipulation/ReverseTheFirstWordInString.java)| Reverse only the first word |
 | 16. [ReverseTheLastWordInString](src/StringManipulation/ReverseTheLastWordInString.java)| Reverse only the last word |
 | 17. [ReverseAStringByReversingWords](src/StringManipulation/ReverseAStringByReversingWords.java)|Reverse all words and the characters in a String|
+| 18. [FindSumOfNumbersInString](src/StringManipulation/FindSumOfNumbersInString.java)| Sum of numbers in a String|
 
 
 ## 2.  Arrays
