@@ -44,7 +44,7 @@
 | 7. [FindOneMissingNumInArray](src/Arrays//BasicPrograms/FindOneMissingNumInArray.java)| FindOneMissingNumInArray|
 | 8. [FindMultipleMissingNumbers](src/Arrays//BasicPrograms/FindMultipleMissingNumbers.java)| FindMultipleMissingNumbers|
 | 9. [RemoveDuplicatesFromArray](src/Arrays//BasicPrograms/RemoveDuplicatesFromArray.java)|Remove duplicates from an Array|
-| 10.[FindDuplicatesInAnArray](src/Arrays//BasicPrograms/FindDuplicatesInAnArray.java)|Locate duplicates and print|
+|10. [FindDuplicatesInAnArray](src/Arrays//BasicPrograms/FindDuplicatesInAnArray.java)|Locate duplicates and print|
 
 ### 3. TwoPointers
 
