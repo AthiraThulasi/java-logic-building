@@ -4,7 +4,7 @@ public class FindSecondLargestElementInAnArray {
     public static void main(String[] args) {
         int a[] = { 1, 2, 4, 5, 6, 7 };
         int largestNumber = Integer.MIN_VALUE; // Integer.MIN_VALUE is the smallest possible integer in Java
-        //nteger.MIN_VALUE is used as an initial placeholder value.It ensures that the first array element will always be greater than it.
+        //We use Integer.MIN_VALUE so that every element in the array is guaranteed to be greater than the starting value
         int secondLargestNumber = Integer.MIN_VALUE;
 
         for (int number : a) {
