@@ -6,6 +6,9 @@ public class SortArrayInAscendingOrder {
 
         for (int i = 0; i < arr.length; i++) { // i moves forward one step at a time
             for (int j = i + 1; j < arr.length; j++) { // j always starts from i+1 so we never compare the same pair twice
+             // i stays fixed while j runs through all remaining elements comparing with i.
+                //Only after j is fully done, i moves to the next position and j starts again!
+
                 if(arr[i] > arr[j]) { // Compare first element with next elements.
                     int temp = arr[i]; // If the first element is bigger, swap it.
                     arr[i] = arr[j];

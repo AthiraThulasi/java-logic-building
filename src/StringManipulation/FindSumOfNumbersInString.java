@@ -25,7 +25,8 @@ public class FindSumOfNumbersInString {
         }
         if (sb.length() > 0) {  // This loop - To handle the final number that was never followed by a non-digit character.
             sum = sum + Integer.parseInt(sb.toString());
-        }
+        } // 10 still remains inside sb - it was never added to sum - so add it.
+        // When loop ends before encountering a non-digit character - add it to sum
         System.out.println(sum);
     }}
 
