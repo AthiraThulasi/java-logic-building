@@ -14,7 +14,7 @@ public class FindTheRepeatedCharacterInAString {
                     if (map.containsKey(ch)) {
                         map.put(ch, map.get(ch) + 1);// map.get(key)returns the value associated with that key.
                     } else {
-                        map.put(ch, 1);
+                        map.put(ch, 1);//store the updated count back into the map
                     }
                 }
 

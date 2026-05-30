@@ -27,6 +27,8 @@
 | 16. [ReverseTheLastWordInString](src/StringManipulation/ReverseTheLastWordInString.java)| Reverse only the last word |
 | 17. [ReverseAStringByReversingWords](src/StringManipulation/ReverseAStringByReversingWords.java)|Reverse all words and the characters in a String|
 | 18. [FindSumOfNumbersInString](src/StringManipulation/FindSumOfNumbersInString.java)| Sum of numbers in a String|
+| 19. [FindTheRepeatedCharacterInAString](src/StringManipulation/FindTheRepeatedCharacterInAString.java)|Find repeated characters in string
+| 20. [FindTheLongestAndShortestWordInString](src/StringManipulation/FindTheLongestAndShortestWordInString.java)| Find the longest and shortest
 
 
 ## 2.  Arrays
