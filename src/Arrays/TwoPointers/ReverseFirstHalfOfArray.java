@@ -6,8 +6,8 @@ public class ReverseFirstHalfOfArray {
         public static void main( String [] args) {
             int[] arr = {10, 20, 30, 40, 50};
             int left = 0;
-            int mid = arr.length / 2;
-            int right = mid - 1;
+            int mid = arr.length / 2;// mid gives the boundary.
+            int right = mid - 1; // right = mid-1 to stay inside the first half without touching the middle element
             int temp;
 
             while (left < right) { // or right > left

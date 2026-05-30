@@ -24,8 +24,7 @@ public class RemoveDuplicateLettersFromString {
         // Using StringBuilder to build a new string from those unique characters.
 
         for (char input : inputArray) {
-            if (linkedHashset.add(input)) {
-                // if is the gatekeeper — only unique characters get through to StringBuilder
+            if (linkedHashset.add(input)) { // just checks if character is unique
                 //add() in a Set returns a boolean:
                 // add(a) returns true  → character is NEW  → if(true) → append to sb
                 // add(a) returns FALSE → character EXISTED → if(false)  → Not append to sb
