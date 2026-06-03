@@ -1,5 +1,5 @@
 # Java Logic Building 
-> Practicing DSA and problem solving patterns in Java - organized by pattern, not by topic.
+> Practicing DSA and problem solving patterns in Java - organized by pattern.
 
 ---
 
