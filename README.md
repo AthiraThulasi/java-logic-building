@@ -30,6 +30,9 @@
 | 19. [FindTheRepeatedCharacterInAString](src/StringManipulation/FindTheRepeatedCharacterInAString.java)|Find repeated characters in string
 | 20. [FindTheLongestAndShortestWordInString](src/StringManipulation/FindTheLongestAndShortestWordInString.java)| Find the longest and shortest|
 | 21. [FindTheUniqueCharactersInAString](src/StringManipulation/FindTheUniqueCharactersInAString.java)| Find unique characters in a string|
+| 22. [RemoveLastWordFromStringUsingSubString](src/StringManipulation/RemoveLastWordFromStringUsingSubString.java)|Remove Last Word From String Using SubString|
+| 23. [RemoveFirsttWordFromStringUsingSubString](src/StringManipulation/RemoveFirsttWordFromStringUsingSubString.java)|Remove First Word From String Using SubString|
+| 23. [PrintFirstAndLastWordFromString/](src/StringManipulationPrintFirstAndLastWordFromString.java)|Print First And Last Word From String|
 
 
 ## 2.  Arrays
