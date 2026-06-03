@@ -19,7 +19,7 @@ public class FindFirstNonRepeatedCharacterInString {
 
         }
 
-        for (char ch : namechar) {
+        for (char ch : namechar)
             {
                 if (map.get(ch) == 1) {
                     System.out.println("First non-repeated character is: " + ch);
@@ -28,5 +28,5 @@ public class FindFirstNonRepeatedCharacterInString {
             }
         }
     }
-}
+
 

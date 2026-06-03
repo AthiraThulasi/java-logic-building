@@ -3,7 +3,7 @@ package StringManipulation;
 public class RemoveLastWordFromString {
 
     public static void main(String[] args) {
-        String s = "Athira works at Infosys";
+        String s = "Athira works at Capgemini";
 
         String [] outputArray = s.split( " ");
 
