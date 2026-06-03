@@ -31,7 +31,7 @@
 | 20. [FindTheLongestAndShortestWordInString](src/StringManipulation/FindTheLongestAndShortestWordInString.java)| Find the longest and shortest|
 | 21. [FindTheUniqueCharactersInAString](src/StringManipulation/FindTheUniqueCharactersInAString.java)| Find unique characters in a string|
 | 22. [RemoveLastWordFromStringUsingSubString](src/StringManipulation/RemoveLastWordFromStringUsingSubString.java)|Remove Last Word From String Using SubString|
-| 23. [RemoveFirsttWordFromStringUsingSubString](src/StringManipulation/RemoveFirsttWordFromStringUsingSubString.java)|Remove First Word From String Using SubString|
+| 23. [RemoveFirstWordFromStringUsingSubString](src/StringManipulation/RemoveFirsttWordFromStringUsingSubString.java)|Remove First Word From String Using SubString|
 | 23. [PrintFirstAndLastWordFromString](src/StringManipulation/PrintFirstAndLastWordFromString.java)|Print First And Last Word From String|
 
 
