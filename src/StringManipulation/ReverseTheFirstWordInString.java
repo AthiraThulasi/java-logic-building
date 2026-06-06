@@ -2,11 +2,13 @@ package StringManipulation;
 
 public class ReverseTheFirstWordInString {
     public static void main(String[] args) {
-        String s = "Athira works at Infosys";
-        String[] charOutput = s.split(" "); //Output - ["Athira" "works" "in" "Infosys"]
-        StringBuilder sb = new StringBuilder(charOutput[0]);
-        String reversed = sb.reverse().toString();
-        System.out.println(reversed);
+            String sentence = "Hard work pays off";
+            String [] words = sentence.split(" ");
+            String firstWord = words[0];
+            for(int i=firstWord.length()-1;i>=0;i--){
+                System.out.print(firstWord.charAt(i));
+
+            }
+        }
     }
-}
 
