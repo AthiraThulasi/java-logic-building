@@ -11,6 +11,7 @@ public class ReverseAStringByReversingWords {
             // length is an array property used to find the size of an array.
 
             String reversedWord = "";//Need a blank variable to start building the reversed word character by character.
+            // reversedWord is declared inside the loop so that it resets to empty for every new word,
 
             // Inner loop → reverses the characters inside each word
             for (int j = words[i].length() - 1; j >= 0; j--) { // words[i] is a one single element from array ie String, so use length()
