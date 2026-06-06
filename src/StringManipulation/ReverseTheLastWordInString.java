@@ -3,7 +3,7 @@ package StringManipulation;
 public class ReverseTheLastWordInString {
 
     public static void main(String[] args){
-
+//Solution 1 - Recommended
         String s = "I work at Infosys";
 
         String[] words = s.split(" ");
@@ -17,19 +17,7 @@ public class ReverseTheLastWordInString {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-     /*
+     /* Solution 2 // Loops through the entire string from the end just to find the last word
         String s = "I work at Infosys";
         char [] charOutput = s.toCharArray();
 
