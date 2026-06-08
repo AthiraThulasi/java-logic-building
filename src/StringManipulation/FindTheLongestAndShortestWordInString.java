@@ -6,8 +6,9 @@ public class FindTheLongestAndShortestWordInString {
 
             String str = "Every day is a new opportunity";
 
-            String[] words = str.split(" ");
+            String[] words = str.split(" ");// returns String array
 
+            // we made first word as longest and shortest and then compare the rest with the first
             String longestWord = words[0];
             String shortestWord = words[0];
 

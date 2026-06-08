@@ -23,7 +23,7 @@ public class FindTheUniqueCharactersInAString {
             }
         // print unique
         System.out.print("Unique characters : ");
-        for(char key : map.keySet()){ // map.keySet() method returns a Set view of all the keys contained in your map.
+        for(Character key : map.keySet()){ // map.keySet() method returns a Set view of all the keys contained in your map.
             if(map.get(key) == 1){
                 System.out.print(key + ",");
             }

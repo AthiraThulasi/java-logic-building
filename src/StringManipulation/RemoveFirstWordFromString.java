@@ -4,7 +4,7 @@ public class RemoveFirstWordFromString {
 
     public static void main(String[] args) {
 
-        String s = "Athira works at Capgemini";
+        String s = "Gratitude lifts you up";
 
         String[] StrOutput = s.split(" "); // Output is a String Array = {"Athira","works","at","Capgemini"};
         // split(" ") removes the spaces and stores only the words
