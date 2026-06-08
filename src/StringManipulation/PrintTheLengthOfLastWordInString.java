@@ -3,7 +3,7 @@ package StringManipulation;
 public class PrintTheLengthOfLastWordInString {
 
         public static void main(String[] args) {
-            String s = "        Hello world     moon        ";
+            String s = "        Be Kind        ";
             System.out.println(s);
             System.out.println(s);
             int count = 0;

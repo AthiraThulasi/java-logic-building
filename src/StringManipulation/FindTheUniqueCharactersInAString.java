@@ -6,7 +6,7 @@ import java.util.Map;
 public class FindTheUniqueCharactersInAString {
     public static void main(String[]args){
 
-        String company = "I work at Capgemini";
+        String company = "Stay Happy and Healthy";
         char [] characters = company.toCharArray();
         Map<Character,Integer> map = new HashMap<>();
 

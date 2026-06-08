@@ -4,7 +4,7 @@ public class GetOnlyVowelsFromString {
 
     public static void main(String[] args) {
 
-        String s = "Athira";
+        String s = "Smile";
 
         for (int i = 0; i < s.length(); i++) {
 

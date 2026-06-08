@@ -7,7 +7,7 @@ public class FindFirstNonRepeatedCharacterInString {
 
     public static void main(String[] args) {
         Map<Character, Integer> map = new HashMap<>();
-        String name = "AAaathiraaa";
+        String name = "Gratitude";
         char[] namechar = name.toCharArray();
         for (char ch : namechar) {
             if (map.containsKey(ch)) {

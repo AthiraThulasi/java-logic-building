@@ -7,7 +7,7 @@ public class RemoveDuplicatesFromString {
 
     public static void main(String[] args){
 
-        String name = "aathiraa";
+        String name = "Be Genuine";
 
         Set<Character> set= new LinkedHashSet<>();
         for(int i =0; i<name.length();i++) { // Forward loop	i < length

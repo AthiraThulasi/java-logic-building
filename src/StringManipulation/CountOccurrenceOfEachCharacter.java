@@ -9,7 +9,7 @@ public class CountOccurrenceOfEachCharacter {
         Map<Character,Integer> map = new HashMap<>();
         // // Map stores character as key and count as value
 
-        String name = "Aathiraaa";
+        String name = "Keep shining";
 
         char [] nameoutput = name.toCharArray();
         //  Converts String into char array >> ['A','a','t','h','i','r','a','a','a']

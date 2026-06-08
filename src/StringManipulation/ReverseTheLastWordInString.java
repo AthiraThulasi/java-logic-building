@@ -4,7 +4,7 @@ public class ReverseTheLastWordInString {
 
     public static void main(String[] args){
 //Solution 1 - Recommended
-        String s = "I work at Infosys";
+        String s = "Be thankful for what you have";
 
         String[] words = s.split(" ");
 

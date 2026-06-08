@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class FindTheRepeatedCharacterInAString {
     public static void main(String[] args) {
-             String str = "Athiraaa";
+             String str = "Value each second";
               Map<Character, Integer> map = new HashMap<>();
 
                 // Count frequency of each character

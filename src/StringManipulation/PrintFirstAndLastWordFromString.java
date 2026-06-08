@@ -3,7 +3,7 @@ package StringManipulation;
 public class PrintFirstAndLastWordFromString {
 
     public static void main(String[] args) {
-        String status = "Athira works at Capgemini";
+        String status = "You are Blessed";
         String [] words =  status.split(" ");
         // split() returns a string array - ["Athira","works","at","Capgemini"];
         // spaces themselves are not stored in the array
