@@ -3,9 +3,7 @@
 
 ---
 
-## 1. StringManipulation
-
-> **Trigger:** Character-level operations, case changes, whitespace, rotation
+# 1. StringManipulation
 
 | Program | Description |
 |---|---|
@@ -36,9 +34,7 @@
 | 24. [RemoveDuplicatesFromStringUsingStringBuilder](src/StringManipulation/RemoveDuplicatesFromStringUsingStringBuilder.java) |Remove Duplicates Using StringBuilder|
 
 
-## 2.  Arrays
-
-### Basic Array Programs
+# 2.  Arrays
 
 | Programs | Description |
 |---|---|
@@ -53,7 +49,7 @@
 | 9. [RemoveDuplicatesFromArray](src/Arrays//BasicPrograms/RemoveDuplicatesFromArray.java)|Remove duplicates from an Array|
 |10. [FindDuplicatesInAnArray](src/Arrays//BasicPrograms/FindDuplicatesInAnArray.java)|Locate duplicates and print|
 
-### 3. TwoPointers 
+# 3. TwoPointers 
 
 | Program | Description |
 |---|---|
@@ -66,7 +62,7 @@
 
 ---
 
-## 4.FrequencyAndHashing 
+# 4.FrequencyAndHashing 
 
 | Program | Description |
 |---|---|
@@ -76,7 +72,7 @@
 | 4. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — using streams|
 
 
-## 5. MathAndNumbers
+# 5. MathAndNumbers
 
 | Program | Description |
 |---|---|
