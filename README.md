@@ -32,7 +32,7 @@
 | 23. [RemoveFirstWordFromStringUsingSubString](src/StringManipulation/RemoveFirstWordFromStringUsingSubString.java)|Remove First Word From String Using SubString|
 | 23. [PrintFirstAndLastWordFromString](src/StringManipulation/PrintFirstAndLastWordFromString.java)|Print First And Last Word From String|
 | 24. [RemoveDuplicatesFromStringUsingStringBuilder](src/StringManipulation/RemoveDuplicatesFromStringUsingStringBuilder.java) |Remove Duplicates Using StringBuilder|
-| 25. |[CheckIfTwoStringsAreAnagrams](src/StringManipulation/CheckIfTwoStringsAreAnagrams.java) | Check If Two Strings Are Anagrams|
+| 25. [CheckIfTwoStringsAreAnagrams](src/StringManipulation/CheckIfTwoStringsAreAnagrams.java) | Check If Two Strings Are Anagrams|
 
 
 # 2.  Arrays
