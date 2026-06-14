@@ -80,6 +80,15 @@
 | 4. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — using streams|
 
 
+## 5. MathAndNumbers
+
+| Program | Description |
+|---|---|
+| 1. [FactorialOfANumber](src/MathAndNumbers/FactorialOfANumber.java)| Factorial oF A Number |
+| 2. [FibinocciSeries](src/MathAndNumbers/FibinocciSeries.java) Fibinocci Series |
+| 3. [NumberPalindrome](/NumberPalindrome.java) Number Palindrome |
+
+
 
 
 

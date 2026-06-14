@@ -13,5 +13,5 @@ public class FactorialOfANumber {
         }
     }
 
-//If I try to find the factorial of 50, it is going to be a large number, which integer can't hold,so o/p is going to be 0.
+//If we try to find the factorial of 50, it is going to be a large number, which integer can't hold,so o/p is going to be 0.
 
