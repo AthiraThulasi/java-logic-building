@@ -53,9 +53,7 @@
 | 9. [RemoveDuplicatesFromArray](src/Arrays//BasicPrograms/RemoveDuplicatesFromArray.java)|Remove duplicates from an Array|
 |10. [FindDuplicatesInAnArray](src/Arrays//BasicPrograms/FindDuplicatesInAnArray.java)|Locate duplicates and print|
 
-### 3. TwoPointers
-
-> **Trigger:** Can I scan from both ends? Reverse? Compare pairs?
+### 3. TwoPointers - Can I scan from both ends? Reverse? Compare pairs?
 
 | Program | Description |
 |---|---|
@@ -68,9 +66,7 @@
 
 ---
 
-## 4.FrequencyAndHashing
-
-> **Trigger:** Have I seen this before? Count frequency? Remove duplicates?
+## 4.FrequencyAndHashing -  Have I seen this before? Count frequency? Remove duplicates?
 
 | Program | Description |
 |---|---|
