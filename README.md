@@ -72,7 +72,14 @@
 | 4. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — using streams|
 
 
-# 5. MathAndNumbers
+# 5. Collections
+| Program | Description |
+|---|---|
+
+
+
+
+# 6. MathAndNumbers
 
 | Program | Description |
 |---|---|
