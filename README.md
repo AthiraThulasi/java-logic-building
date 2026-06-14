@@ -78,7 +78,7 @@
 |---|---|
 | 1. [FactorialOfANumber](src/MathAndNumbers/FactorialOfANumber.java)| Factorial oF A Number |
 | 2. [FibinocciSeries](src/MathAndNumbers/FibinocciSeries.java) | Fibinocci Series |
-| 3. [NumberPalindrome](/NumberPalindrome.java) | Number Palindrome |
+| 3. [NumberPalindrome](src/MathAndNumbers/NumberPalindrome.java) | Number Palindrome |
 
 
 
