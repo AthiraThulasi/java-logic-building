@@ -73,7 +73,7 @@
 | 4. [RemoveDuplicatesFromArrayUsingLinkedHashSet](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingLinkedHashSet.java) | Remove duplicates from array using HashSet |
 | 5. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — 
 using streams|
-| 6. [RunLengthEncoding](src/FrequencyAndHashin/RunLengthEncoding.java) |  Run Length Encoding |
+| 6. [RunLengthEncoding](src/FrequencyAndHashing/RunLengthEncoding.java) |  Run Length Encoding |
 
 
 # 5. Collections
