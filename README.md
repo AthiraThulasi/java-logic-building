@@ -68,9 +68,12 @@
 | Program | Description |
 |---|---|
 | 1. [CountTheFrequencyOfCharactersInString](src/FrequencyAndHashing/CountTheFrequencyOfCharactersInString.java) | Count how many times each character appears |
-| 2. [RemoveDuplicateLettersFromString](src/FrequencyAndHashing/RemoveDuplicateLettersFromString.java) | Remove duplicate characters, preserve order |
-| 3. [RemoveDuplicatesFromArrayUsingLinkedHashSet](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingLinkedHashSet.java) | Remove duplicates from array using HashSet |
-| 4. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — using streams|
+| 2. [CountTheFrequencyOfSpecialCharactersInString](src/FrequencyAndHashing/CountTheFrequencyOfSpecialCharactersInString.java) |Count The Frequency Of Special Characters In String
+| 3. [RemoveDuplicateLettersFromString](src/FrequencyAndHashing/RemoveDuplicateLettersFromString.java) | Remove duplicate characters, preserve order |
+| 4. [RemoveDuplicatesFromArrayUsingLinkedHashSet](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingLinkedHashSet.java) | Remove duplicates from array using HashSet |
+| 5. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — 
+using streams|
+| 6. [RunLengthEncoding](src/FrequencyAndHashin/RunLengthEncoding.java) |  Run Length Encoding |
 
 
 # 5. Collections
