@@ -22,13 +22,16 @@ public class LastNonRepeatedCharacterInString {
 
             // Loop backward using the array directly without creating an extra variable
             for (int i = characters.length - 1; i >= 0; i--) {
-                // Skips spaces, checks if total occurrences equal 1, and stops immediately
-                if (characters[i] != ' ' && map.get(characters[i]) == 1) {
-                    System.out.println(characters[i]);
+                char ch = characters[i]; // Define it inside this loop scope
+
+                if (ch != ' ' && map.get(ch) == 1) {
+                    System.out.println(ch);
                     break;
                 }
             }
+
         }
-    }
+            }
+
 
 
