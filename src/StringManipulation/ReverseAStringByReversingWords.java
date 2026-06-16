@@ -3,7 +3,7 @@ package StringManipulation;
 public class ReverseAStringByReversingWords {
 
     public static void main(String[] args) {
-        String name = "Athira works at Infosys";
+        String name = "Live in the present";
         String[] words = name.split(" "); // split() returns a String Array >> ["Athira", "works", "at", "Infosys"]
 
         // Outer loop  → picks each word from end
