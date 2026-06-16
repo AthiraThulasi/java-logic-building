@@ -34,7 +34,7 @@
 | 24. [RemoveDuplicatesFromStringUsingStringBuilder](src/StringManipulation/RemoveDuplicatesFromStringUsingStringBuilder.java) |Remove Duplicates Using StringBuilder|
 | 25. [CheckIfTwoStringsAreAnagrams](src/StringManipu//CheckIfTwoStringsAreAnagrams.java) | Check If Two Strings Are Anagrams|
 | 26. [LastNonRepeatedCharacterInString](src/StringManipulationlation/LastNonRepeatedCharacterInString.java) | Last Non Repeated Character In String |
-| 27. [ReverseStringUsingStringBuilder](src/StringManipulationlation/ReverseStringUsingStringBuilder.java) | Reverse String Using StringBuilder
+| 27. [ReverseStringUsingStringBuilder](src/StringManipulationlation/ReverseStringUsingStringBuilder.java) | Reverse String Using StringBuilder |
 
 
 # 2.  Arrays
