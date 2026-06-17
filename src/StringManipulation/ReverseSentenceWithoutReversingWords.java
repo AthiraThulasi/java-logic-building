@@ -1,11 +1,11 @@
 package StringManipulation;
 
-public class ReverseStringWithoutReversingWords {
+public class ReverseSentenceWithoutReversingWords {
 
     public static void main(String[] args) {
-        String s = "I work at Infosys";
+        String s = "Be happy and healthy";
 
-        String[] words = s.split(" ");  // output - ["I","work","at","Infosys"] - String Array
+        String[] words = s.split(" ");  // output - ["Be","happy","and","healthy"] - String Array
         // Split the string wherever there is a space.
 
         for (int i = words.length - 1; i >= 0; i--) {
@@ -14,4 +14,4 @@ public class ReverseStringWithoutReversingWords {
     }
 }
 
-// Output - Infosys at work I
+// Output - healthy and happy Be
