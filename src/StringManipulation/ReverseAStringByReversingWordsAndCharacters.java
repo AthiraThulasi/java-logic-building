@@ -1,6 +1,9 @@
 package StringManipulation;
 
-public class ReverseAStringByReversingWords {
+public class ReverseAStringByReversingWordsAndCharacters {
+    // Reverse the words and then reverse the characters - Using Nested Loops
+    // Reversing the order of words
+    // Reversing the characters inside each word
 
     public static void main(String[] args) {
         String name = "Live in the present";

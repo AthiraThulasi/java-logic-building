@@ -1,6 +1,6 @@
 package StringManipulation;
 
-public class ReverseSentenceWithoutReversingWords {
+public class ReverseTheWordsInSentence {
 
     public static void main(String[] args) {
         String s = "Be happy and healthy";
