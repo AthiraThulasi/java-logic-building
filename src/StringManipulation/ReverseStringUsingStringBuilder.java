@@ -6,7 +6,7 @@ public class ReverseStringUsingStringBuilder {
         StringBuilder results = new StringBuilder(quote);
         String reversedOutput = results.reverse().toString();
         // reverse() returns a StringBuilder object
-        // use toString() to convert the StringBuilder into a String
+        // use toString() to convert the StringBuilder to a String
         System.out.println(reversedOutput);
 
 
