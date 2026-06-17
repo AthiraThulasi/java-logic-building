@@ -35,6 +35,8 @@
 | 25. [CheckIfTwoStringsAreAnagrams](src/StringManipulation/CheckIfTwoStringsAreAnagrams.java) | Check If Two Strings Are Anagrams|
 | 26. [LastNonRepeatedCharacterInString](src/StringManipulation/LastNonRepeatedCharacterInString.java) | Last Non Repeated Character In String |
 | 27. [ReverseStringUsingStringBuilder](src/StringManipulation/ReverseStringUsingStringBuilder.java) | Reverse String Using StringBuilder |
+| 28. [PalindromeStringUsingStringBuilder](src/StringManipulation/PalindromeStringUsingStringBuilder.java) | Palindrome String Using StringBuilder |
+| 29. [PalindromeStringUsingCharAt](src/StringManipulation/PalindromeStringUsingCharAt.java) | Palindrome String Using CharAt
 
 
 # 2.  Arrays
