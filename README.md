@@ -20,7 +20,7 @@
 | 11. [RemoveFirstWordFromString](src/StringManipulation/RemoveFirstWordFromString.java)| Remove the first word from a sentence|
 | 12. [RemoveLastWordFromString](src/StringManipulation/RemoveLastWordFromString.java)| Remove the last word from a sentence |
 | 13. [ReverseAString](src/StringManipulation/ReverseAString.java)| Reverse a complete string|
-| 14. [ReverseStringWithoutReversingWords](src/StringManipulation/ReverseSentenceWithoutReversingWords.java)|Reverse sentence without reversing each word|
+| 14. [ReverseTheWordsInSentence](src/StringManipulation/ReverseTheWordsInSentence.java)|Reverse words in a string|
 | 15. [ReverseTheFirstWordInString](src/StringManipulation/ReverseTheFirstWordInString.java)| Reverse only the first word |
 | 16. [ReverseTheLastWordInString](src/StringManipulation/ReverseTheLastWordInString.java)| Reverse only the last word |
 | 17. [ReverseAStringByReversingWordsAndCharacters](src/StringManipulation/ReverseAStringByReversingWordsAndCharacters.java)|Reverse all words and the characters in a String|
