@@ -2,7 +2,7 @@ package Arrays.BasicPrograms;
 
 import java.util.Arrays;
 
-public class RotateArrayByKTimes {
+public class RotateArrayByKTimesToLeft {
     //Rotate Left by k	means >> rotate first k elements to the last
    //In left rotation, we push the first k elements to the back
   // → so we reverse parts first, and then fix everything.
