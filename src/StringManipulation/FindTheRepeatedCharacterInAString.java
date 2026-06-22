@@ -21,9 +21,12 @@ public class FindTheRepeatedCharacterInAString {
                 // Print repeated characters
                 System.out.println("Repeated characters are:");
 
-                for (Character ch : map.keySet()) {
-                    if (map.get(ch) > 1) {
-                        System.out.println(ch);
+                for (Character ch : map.keySet()) { // map.keySet() → gives all keys
+                    if (map.get(ch) > 1) {                                   // map.values()->  gives all values
+                        System.out.println(ch);                              // map.entrySet()-> gives key-value pairs
+
+
+
                     }
                 }
             }

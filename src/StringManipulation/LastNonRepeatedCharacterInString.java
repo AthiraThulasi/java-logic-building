@@ -18,20 +18,19 @@ public class LastNonRepeatedCharacterInString {
                 }
             }
 
-            System.out.println("First non-repeated character from the last is:");
+            System.out.println("Last non-repeated character is:");
 
             // Loop backward using the array directly without creating an extra variable
             for (int i = characters.length - 1; i >= 0; i--) {
-                char ch = characters[i]; // Define it inside this loop scope
-
-                if (ch != ' ' && map.get(ch) == 1) {
-                    System.out.println(ch);
+                if (characters[i] != ' ' && map.get(characters[i]) == 1) {
+                    System.out.println(characters[i]);
                     break;
                 }
             }
+            }
 
         }
-            }
+
 
 
 
