@@ -78,6 +78,7 @@
 | 5. [RemoveDuplicatesFromArray2](src/FrequencyAndHashing/RemoveDuplicatesFromArrayUsingStreams.java) | Remove duplicates — 
 using streams|
 | 6. [RunLengthEncoding](src/FrequencyAndHashing/RunLengthEncoding.java) |  Run Length Encoding |
+| 7. [CountTheOccurrenceOfASpecificCharacter](src/FrequencyAndHashing/CountTheOccurrenceOfASpecificCharacter.java) | Count The Occurrence Of A Specific Character |
 
 
 # 5. Collections
