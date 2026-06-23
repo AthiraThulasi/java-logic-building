@@ -54,7 +54,7 @@
 | 9. [RemoveDuplicatesFromArray](src/Arrays//BasicPrograms/RemoveDuplicatesFromArray.java)|Remove duplicates from an Array|
 |10. [FindDuplicatesInAnArray](src/Arrays//BasicPrograms/FindDuplicatesInAnArray.java)|Locate duplicates and print|
 |11. [RotateArrayByKTimesToLeft](src/Arrays//BasicPrograms/RotateArrayByKTimesToLeft.java) | Rotate Array By K Times To Left |
-|12. [RotateArrayByNTimesToRight](src/Arrays//RotateArrayByNTimesToRight.java)| RotateArrayByNTimesToRight|
+|12. [RotateArrayByNTimesToRight](src/Arrays//BasicPrograms/RotateArrayByNTimesToRight.java)| RotateArrayByNTimesToRight|
 
 # 3. TwoPointers 
 
