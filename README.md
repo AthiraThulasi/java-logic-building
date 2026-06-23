@@ -37,6 +37,7 @@
 | 27. [ReverseStringUsingStringBuilder](src/StringManipulation/ReverseStringUsingStringBuilder.java) | Reverse String Using StringBuilder |
 | 28. [PalindromeStringUsingStringBuilder](src/StringManipulation/PalindromeStringUsingStringBuilder.java) | Palindrome String Using StringBuilder |
 | 29. [PalindromeStringUsingCharAt](src/StringManipulation/PalindromeStringUsingCharAt.java) | Palindrome String Using CharAt
+| 30. [RemoveDuplicateWordsFromASentence](src/StringManipulation/RemoveDuplicateWordsFromASentence.java) | Remove Duplicate Words From A Sentence|
 
 
 # 2.  Arrays
@@ -56,7 +57,7 @@
 |11. [RotateArrayByKTimesToLeft](src/Arrays//BasicPrograms/RotateArrayByKTimesToLeft.java) | Rotate Array By K Times To Left |
 |12. [RotateArrayByNTimesToRight](src/Arrays//BasicPrograms/RotateArrayByNTimesToRight.java)| RotateArrayByNTimesToRight|
 
-# 3. TwoPointers 
+# 3. TwoPointers ava
 
 | Program | Description |
 |---|---|
