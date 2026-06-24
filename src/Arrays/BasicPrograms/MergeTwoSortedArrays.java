@@ -2,7 +2,7 @@ package Arrays.BasicPrograms;
 
 import java.util.Arrays;
 
-public class MergerTwoSortedArrays {
+public class MergeTwoSortedArrays {
         public static void main(String[] args) {
             int a1[] = {1, 2, 4};
             int a2[] = {1, 3, 5};
