@@ -22,7 +22,8 @@ public class RotateArrayByNTimesToRight {
         // Step 1: Reverse the entire array
         reverse(a, 0, a.length - 1);
         System.out.println(Arrays.toString(a)); // [7, 6, 5, 4, 3, 2, 1]
-        // Arrays.toString(a) converts the array into a readable string.
+        // Arrays.toString(a) converts the array into a readable string //
+
         // Step 2: Reverse the first k elements
         reverse(a, 0, k - 1);
         System.out.println(Arrays.toString(a)); // [5, 6, 7, 4, 3, 2, 1]
