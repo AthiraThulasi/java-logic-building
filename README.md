@@ -58,7 +58,7 @@
 |12. [RotateArrayByNTimesToRight](src/Arrays//BasicPrograms/RotateArrayByNTimesToRight.java)| RotateArrayByNTimesToRight|
 |13. [MergeTwoSortedArrays](src/Arrays//BasicPrograms/MergeTwoSortedArrays.java) | Merge Two Sorted Arrays |
 
-# 3. TwoPointers ava
+# 3. TwoPointers 
 
 | Program | Description |
 |---|---|
@@ -88,6 +88,7 @@ using streams|
 # 5. Collections
 | Program | Description |
 |---|---|
+| 1. [ReverseMap](src/Collections/ReverseMap.java) | ReverseMap |
 
 
 
