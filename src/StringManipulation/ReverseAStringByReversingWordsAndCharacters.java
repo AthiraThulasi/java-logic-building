@@ -11,7 +11,8 @@ public class ReverseAStringByReversingWordsAndCharacters {
 
         // Outer loop  → picks each word from end
         for (int i = words.length - 1; i >= 0; i--) {
-            // length is an array property used to find the size of an array.
+            // length is an array prope
+            // rty used to find the size of an array.
 
             String reversedWord = "";//Need a blank variable to start building the reversed word character by character.
             // reversedWord is declared inside the loop so that it resets to empty for every new word,
