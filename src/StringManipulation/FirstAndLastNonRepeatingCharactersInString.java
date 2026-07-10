@@ -7,10 +7,10 @@ class FirstAndLastNonRepeatingCharactersInString {
     public static void main(String[] args) {
         Map<Character, Integer> map = new HashMap<>();
         String name = "Stay Happy and Healthy";
-        char[] namechar = name.toCharArray();
+        char[] characters = name.toCharArray();
 
         // Build frequency map — ONCE
-        for (char ch : namechar) {
+        for (char ch : characters) {
             if (map.containsKey(ch)) {
                 map.put(ch, map.get(ch) + 1);
             } else {
@@ -19,7 +19,7 @@ class FirstAndLastNonRepeatingCharactersInString {
         }
 
         // FIRST non-repeating → scan forward
-        for (char ch : namechar) {
+        for (char ch : characters) {
             if (map.get(ch) == 1) {
                 System.out.println("First non-repeated character is: " + ch);
                 break;
@@ -27,11 +27,11 @@ class FirstAndLastNonRepeatingCharactersInString {
         }
 
         // LAST non-repeating → scan BACKWARD
-        for (int i = namechar.length - 1; i >= 0; i--) {
-            if (map.get(namechar[i]) == 1) {
-                System.out.println("Last non-repeated character is: " + namechar[i]);
+        for (int i = characters.length - 1; i >= 0; i--) {
+            if (characters[i] != ' ' && map.get(characters[i]) == 1) {
+                System.out.println("Last non-repeated character is : " + characters[i]);
                 break;
+            }
             }
         }
     }
-}
