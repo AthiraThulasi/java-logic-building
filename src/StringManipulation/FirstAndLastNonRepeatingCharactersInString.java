@@ -22,7 +22,7 @@ class FirstAndLastNonRepeatingCharactersInString {
         for (char ch : namechar) {
             if (map.get(ch) == 1) {
                 System.out.println("First non-repeated character is: " + ch);
-                break;   // ← you MUST uncomment this!
+                break;
             }
         }
 
