@@ -27,10 +27,17 @@ public class RotateArrayByNTimesToRight {
         // Step 2: Reverse the first k elements
         reverse(a, 0, k - 1);
         System.out.println(Arrays.toString(a)); // [5, 6, 7, 4, 3, 2, 1]
+        // System.out.println(a) — gives us hashcode bcs  Arrays don't override the toString() method
+        // Arrays inherit the default one from the Object class.
 
         // Step 3: Reverse the remaining elements
         reverse(a, k, a.length - 1);
         System.out.println(Arrays.toString(a)); // [5, 6, 7, 1, 2, 3, 4]
+        // Arrays don't have a meaningful toString() of their own, so direct printing gives type@hashcode
+        // Arrays.toString() converts the contents into a readable string.
+
+        //toString doesn't mean "turn the array into a string"
+        // it means "produce a String that describes this array. The array is the input; a String is the output.
     }
 
     // Reverses the elements between the given indices
@@ -38,7 +45,7 @@ public class RotateArrayByNTimesToRight {
     // The three calls in main() simply tell it which part of the array to reverse each time.
     public static int[] reverse(int[] a, int left, int right) {
 
-        while (left < right) {
+        while (left < right) { // left and right are the indexes, not the elements
 
             // Swap the left and right elements
             int temp = a[left];

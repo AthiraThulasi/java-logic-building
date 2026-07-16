@@ -18,7 +18,7 @@ public class RotateArrayByKTimesToLeft {
 
 
             // First reverse the first k elements 0,1 indexes (left elements)
-            a = reverse(a,left,k-1);// arrayreference, start index,first 2 elements
+            a = reverse(a,0,k-1);// arrayreference, start index,first 2 elements
             System.out.println(java.util.Arrays.toString(a));
 
             // reverse the remaining elements of the array
