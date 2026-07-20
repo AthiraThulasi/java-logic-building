@@ -9,7 +9,7 @@ public class RemoveDuplicatesFromArray {
         int[] arr = {10,20,30,40,20,10};
 
         Set<Integer> set = new LinkedHashSet<>();
-        for(int num :arr) {
+        for(int num :arr) { // Java automatically converts the primitive int into an Integer object using a feature called autoboxing
             set.add(num);
         }
 
