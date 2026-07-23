@@ -16,7 +16,7 @@ public class StringCompressionUsingStringBuilder {
                 } else {
                     result.append(str.charAt(i));
                     result.append(count);
-                    count = 1;
+                    count = 1;// When the character changes, print the previous character and reset count to 1 for the new character.
                 }
             }
 
