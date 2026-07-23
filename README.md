@@ -38,6 +38,8 @@
 | 28. [PalindromeStringUsingStringBuilder](src/StringManipulation/PalindromeStringUsingStringBuilder.java) | Palindrome String Using StringBuilder |
 | 29. [PalindromeStringUsingCharAt](src/StringManipulation/PalindromeStringUsingCharAt.java) | Palindrome String Using CharAt
 | 30. [RemoveDuplicateWordsFromASentence](src/StringManipulation/RemoveDuplicateWordsFromASentence.java) | Remove Duplicate Words From A Sentence|
+| 31. [StringCompressionUsingStringBuilder](src/StringManipulation/StringCompressionUsingStringBuilder.java)| String Compression Using StringBuilder |
+| 32. [StringCompression](src/StringManipulation/StringCompression.java)| String Compression Using StringBuilder |
 
 
 # 2.  Arrays
