@@ -13,7 +13,7 @@ public class ReverseTheCaseInString {
         char [] letters = s.toCharArray();// convert string to char array -
         System.out.println("letters are" + Arrays.toString(letters)); //O/P > [H, e, l, l, o,  , W, o, r, l, d]
         for (char letter : letters) {
-            if (Character.isUpperCase(letter)) {
+            if (Character.isUpperCase(letter)) {  // Character is the wrapper class for the primitive data type char.
                 result.append(Character.toLowerCase(letter));// convert to lowercase and append to result
 
             } else if (Character.isLowerCase(letter)) {

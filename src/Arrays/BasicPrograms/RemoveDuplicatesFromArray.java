@@ -10,7 +10,7 @@ public class RemoveDuplicatesFromArray {
 
         Set<Integer> set = new LinkedHashSet<>();
         for(int num :arr) { // Java automatically converts the primitive int into an Integer object using a feature called autoboxing
-            set.add(num);
+            set.add(num);     // java introduced this feature in java5
         }
 
         System.out.println("Without Duplicates: " + set);

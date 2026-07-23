@@ -1,7 +1,7 @@
 package MathAndNumbers;
 
 public class FibinocciSeries {
-// In Fibinocci each number is the sum of the previous two numbers
+// A Fibonacci series is a sequence of numbers where each number is the sum of the previous two numbers.
     public static void main(String[] args) {
 
         int first = 0;
