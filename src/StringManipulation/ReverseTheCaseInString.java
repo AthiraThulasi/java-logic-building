@@ -10,7 +10,7 @@ public class ReverseTheCaseInString {
         //StringBuilder is mutable >> used for building or modifying strings efficiently in Java.
         //This creates an empty StringBuilder object named result.
 
-        char [] letters = s.toCharArray();// convert string to char array -
+        char [] letters = s.toCharArray();// convert string to char array
         System.out.println("letters are" + Arrays.toString(letters)); //O/P > [H, e, l, l, o,  , W, o, r, l, d]
         for (char letter : letters) {
             if (Character.isUpperCase(letter)) {  // Character is the wrapper class for the primitive data type char.
@@ -25,3 +25,10 @@ public class ReverseTheCaseInString {
     }
 
 }
+/* Character is a wrapper class which provides the following utility methods:
+Character.isUpperCase(ch)
+Character.isLowerCase(ch)
+Character.isDigit(ch)
+Character.isLetter(ch)
+Character.toUpperCase(ch)
+Character.toLowerCase(ch) */
