@@ -1,7 +1,7 @@
 package StringManipulation;
 
 import java.util.Arrays;
-
+// Anagram - Two words or strings have the same characters with the same frequency, but the characters can be arranged in a different order.
 public class CheckIfTwoStringsAreAnagrams {
 
     public static void main(String[] args) {
